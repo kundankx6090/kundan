@@ -15,7 +15,7 @@ def kundan():
 ```
 
 ## Connect me on:
-- LinkedIn: 
-- Kaggle: 
+- LinkedIn: https://www.linkedin.com/in/kundan-kumar-mandal-5595b8121
+- Kaggle: https://www.linkedin.com/in/kundan-kumar-mandal-5595b8121
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
