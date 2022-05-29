@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently working in  **HSBC** as a senior analyst.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
-- 💻 I'm looking for an **Job** in **Machine Learning** domain.
+- 💻 I'm have worked in the filed of **Machine Learning, Deep Learning, python, Computer Vision** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
 ```python
