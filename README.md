@@ -1,7 +1,7 @@
 ## Hey there, I'm Kundan!
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-- 🎓 I'm currently working in  **HSBC**.
+- 🎓 I'm currently working in  **HSBC** as a senior analyst.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
 - 💻 I'm looking for an **Job** in **Machine Learning** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
